@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: Etsy Title Verification and Search Functionality Title Verification
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 4, Skipped: 0, Time elapsed: 36.609 s <<< FAILURE! - in Etsy Title Verification and Search Functionality Title Verification
+Etsy Title Verification and Search Functionality Title Verification.Etsy Title Verification  Time elapsed: 34.126 s  <<< FAILURE!
+org.junit.ComparisonFailure: Title is not expected! expected:<Etsy[]> but was:<Etsy[ - Shop for handmade, vintage, custom, and unique gifts for everyone]>
+
+Etsy Title Verification and Search Functionality Title Verification.Etsy Search Functionality Title Verification (without parameterization)  Time elapsed: 2.312 s  <<< ERROR!
+java.lang.NullPointerException
+
+Etsy Title Verification and Search Functionality Title Verification.Etsy Search Functionality Title Verification (without parameterization)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=106.0.5249.119)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-3.local', ip: 'fe80:0:0:0:1c95:e4b2:571c:53b0%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/kx/vy53m22d1hs...}, goog:chromeOptions: {debuggerAddress: localhost:53062}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90206f77438af00a9dbbee6be56b69cc
+
+Etsy Title Verification and Search Functionality Title Verification.Etsy Search Functionality Title Verification (with parameterization)  Time elapsed: 0.17 s  <<< ERROR!
+org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=106.0.5249.119)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-3.local', ip: 'fe80:0:0:0:1c95:e4b2:571c:53b0%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/kx/vy53m22d1hs...}, goog:chromeOptions: {debuggerAddress: localhost:53062}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90206f77438af00a9dbbee6be56b69cc
+
+Etsy Title Verification and Search Functionality Title Verification.Etsy Search Functionality Title Verification (with parameterization)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=106.0.5249.119)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-3.local', ip: 'fe80:0:0:0:1c95:e4b2:571c:53b0%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/kx/vy53m22d1hs...}, goog:chromeOptions: {debuggerAddress: localhost:53062}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90206f77438af00a9dbbee6be56b69cc
+

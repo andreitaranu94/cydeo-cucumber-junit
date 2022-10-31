@@ -1,0 +1,5 @@
+file:src/test/resources/features/wikiSearch.feature:11:28:29:30:31:32:37:38:39
+file:src/test/resources/features/webTableLogin.feature:15:20
+file:src/test/resources/features/googleSearch.feature:5:10:15
+file:src/test/resources/features/etsy.feature:4:8:14
+file:src/test/resources/features/webtableOrder.feature:4:38:39:40:41:42:48:49:50:51:52:53

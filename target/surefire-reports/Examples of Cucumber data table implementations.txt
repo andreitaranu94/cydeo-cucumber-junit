@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: Examples of Cucumber data table implementations
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 15.655 s <<< FAILURE! - in Examples of Cucumber data table implementations
+Examples of Cucumber data table implementations.List of fruits I like  Time elapsed: 9.279 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/cydeo/utilities/BrowserUtils
+Caused by: java.lang.ClassNotFoundException: com.cydeo.utilities.BrowserUtils
+
+Examples of Cucumber data table implementations.User should be able to see all 12 months in months  Time elapsed: 6.32 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/cydeo/utilities/BrowserUtils
+Caused by: java.lang.ClassNotFoundException: com.cydeo.utilities.BrowserUtils
+
+Examples of Cucumber data table implementations.User should be able to see all 12 months in months  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/cydeo/utilities/BrowserUtils
+
